@@ -19,8 +19,8 @@ A full-stack **Mini SaaS User Management** application built with the **MERN sta
 | Add new user | ✅ | ❌ |
 | Edit any user | ✅ | ❌ |
 | Delete user | ✅ | ❌ |
-| View own profile | ✅ | ✅ |
-| Edit own profile | ✅ | ✅ |
+| View own profile | ❌ | ✅ |
+| Edit own profile | ❌ | ✅ |
 
 ### Dashboard
 - Admin: Stats cards (total users, admins, regular users) + recent users list
