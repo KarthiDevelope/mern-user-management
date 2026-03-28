@@ -196,7 +196,7 @@ http://localhost:5173
 
 
 ```frontend env
-VITE_API=http://localhost:5000/api
+FRONTEND ENV ----> VITE_API=http://localhost:5000/api
 ```
 ---
 
